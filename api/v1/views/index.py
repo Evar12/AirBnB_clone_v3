@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-This module contains endpoint(route) status
+This code contains endpoint(route) status
 """
 from models import storage
 from flask import Flask
